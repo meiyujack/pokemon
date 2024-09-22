@@ -9,3 +9,6 @@
 
 ps:
 `python -m nuitka pokemon.py --enable-plugin=tk-inter --windows-disable-console --include-data-dir=resources=resources --windows-icon-from-ico=resources/favicon.ico --standalone`
+
+![info](./info.PNG)
+![detail](./detail.PNG)
